@@ -16,14 +16,15 @@ import './App.css';
 // import Sample9 from './Components/Sample9';
 // import Sample11 from './Components/Sample11';
 // import Sample19 from './Components/Sample19';
-import Sample20 from './Components/Sample20';
+// import Sampleform22 from './Components/Sample22';
+import Sample28 from './Components/Sample28';
 
 
 
 function App() {
   return(
   <div>
-    <Sample20/> 
+    <Sample28/> 
     {/* <Sample2/> */}
   </div>
   );
